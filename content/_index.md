@@ -15,9 +15,6 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: /files/Hamdi_CV.pdf
     design:
       css_class: dark
       # Avatar customization
