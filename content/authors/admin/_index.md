@@ -40,13 +40,12 @@ interests:
 
 # Education
 education:
-  - degree: Ph.D., Computer Science (2020)
-    institution: Georgia State University
-  - degree: M.S., Computer Science (2020)
-    institution: Georgia State University
-  - degree: B.Sc., Computer Science & Engineering (2014)
-    institution: Rajshahi University of Engineering and Technology
-
+  - area: Ph.D., Computer Science (2020)
+    institution: Georgia State University, Atlanta, GA
+  - area: M.S., Computer Science (2020)
+    institution: Georgia State University, Atlanta, GA
+  - area: B.Sc., Computer Science & Engineering (2014)
+    institution: Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh
 ---
 ## About Me
 
