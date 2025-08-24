@@ -30,7 +30,7 @@ profiles:
     url: "https://dblp.uni-trier.de/pid/189/1546.html"
   - icon: brands/linkedin
     url: "https://www.linkedin.com/in/shahmuhammadhamdi/"
-  - icon: solid/file-pdf
+  - icon: academicons/cv
     url: "/files/Hamdi_CV.pdf"
     label: "CV"
 
@@ -44,9 +44,9 @@ interests:
 # Education
 education:
   - area: Ph.D., Computer Science (2020)
-    institution: Georgia State University, Atlanta, GA
+    institution: Georgia State University
   - area: M.S., Computer Science (2020)
-    institution: Georgia State University, Atlanta, GA
+    institution: Georgia State University
   - area: B.Sc., Computer Science & Engineering (2014)
     institution: Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh
 ---
