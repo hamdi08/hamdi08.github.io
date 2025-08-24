@@ -17,11 +17,6 @@ highlight_name: true
 # Photo (auto-detected if avatar.jpg is present in this folder)
 avatar: "avatar.jpg"
 
-# Contact details
-email: "s.hamdi@usu.edu"
-address: 
-  - office: "Science and Engineering Research (SER) Building, SER 330, School of Computing, Utah State University, Logan, UT"
-
 # Contact / social
 profiles:
   - icon: at-symbol
