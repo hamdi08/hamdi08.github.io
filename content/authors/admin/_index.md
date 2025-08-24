@@ -30,6 +30,10 @@ profiles:
     url: "https://dblp.uni-trier.de/pid/189/1546.html"
   - icon: brands/linkedin
     url: "https://www.linkedin.com/in/shahmuhammadhamdi/"
+  - icon: file-pdf
+    icon_pack: fas
+    name: CV
+    url: "/files/Hamdi_CV.pdf"
 
 # Research interests
 interests:
