@@ -52,7 +52,7 @@ sections:
         - **January 2022** — I received the NSF CRII award [Award #2305781](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2305781) !
         - **August 2020** — I started my Assistant Professor position at CS NMSU.
     design:
-      columns: "2"
+      columns: "1"
       
 
   # 3) FEATURED PUBLICATIONS (keep)
