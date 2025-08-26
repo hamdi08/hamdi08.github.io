@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: "5rem"
+  spacing: "6rem"
 
 sections:
   # 1) BIO / Interests / Education (already pulls from content/authors/admin/)
@@ -53,7 +53,7 @@ sections:
         - **August 2020** — I started my Assistant Professor position at CS NMSU.
     design:
       columns: "1"
-      css_class: news-wide
+      
 
   # 3) FEATURED PUBLICATIONS (keep)
   - block: collection
