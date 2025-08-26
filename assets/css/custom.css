@@ -1,0 +1,4 @@
+/* Make the Recent News section use a wider container on desktop */
+.news-wide .container {
+  max-width: 1200px;     /* default ~800px */
+}
