@@ -53,6 +53,7 @@ sections:
         - **August 2020** — I started my Assistant Professor position at CS NMSU.
     design:
       columns: "1"
+      css_class: news-wide
 
   # 3) FEATURED PUBLICATIONS (keep)
   - block: collection
