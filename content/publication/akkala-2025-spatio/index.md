@@ -20,11 +20,12 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-29T09:33:43.467514Z'
+publishDate: '2025-08-29T10:22:26.578757Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types: ["2"]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: '*Hydrology*'
