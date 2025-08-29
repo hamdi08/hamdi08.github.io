@@ -23,8 +23,7 @@ publishDate: '2025-08-29T09:33:43.674072Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types:
-- paper-conference
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*2023 International Conference on Machine Learning and Applications
