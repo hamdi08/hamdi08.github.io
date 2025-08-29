@@ -73,6 +73,7 @@ sections:
       title: Recent Publications
       text: ""
       filters:
+        publication_type: ""
         folders: ["publication"]
         exclude_featured: false
     design:
