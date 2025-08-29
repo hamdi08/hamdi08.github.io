@@ -67,22 +67,33 @@ sections:
       view: article-grid
       columns: 2
 
-  # 4) RECENT PUBLICATIONS (move to end)
-    - block: collection
+  # 4) CONFERENCE PAPERS (publication_type "1")
+  - block: collection
+    id: conf-papers
     content:
       title: Conference Papers
+      text: ""
       filters:
-        folders:
-          - publication
+        folders: ["publication"]
         publication_type: "1"
+        exclude_featured: false
+        exclude_future: true
+    design:
+      view: citation   # or: date-title-summary
+      columns: 1
 
-    - block: collection
+  # 5) JOURNAL ARTICLES (publication_type "2")
+  - block: collection
+    id: journal-articles
     content:
       title: Journal Articles
+      text: ""
       filters:
-        folders:
-          - publication
+        folders: ["publication"]
         publication_type: "2"
-
-
+        exclude_featured: false
+        exclude_future: true
+    design:
+      view: citation
+      columns: 1
 ---
