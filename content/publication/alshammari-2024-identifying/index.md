@@ -22,8 +22,7 @@ publishDate: '2025-08-29T09:33:43.574017Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types:
-- article-journal
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*The Astrophysical Journal Supplement Series*'
