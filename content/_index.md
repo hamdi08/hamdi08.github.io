@@ -37,25 +37,24 @@ sections:
         - **August 2025** — Congratulations to Reza on our IEEE ICDM 2025 paper.
         - **August 2025** — Congratulations to Santosh on our ACM CIKM 2025 paper.
         - **August 2025** — Congratulations to Peiyu and Pouya on our two IEEE DSAA 2025 papers.
-        - **July 2025** — We received the NSF CAIG grant [Award #2530946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530946) !  
+        - **July 2025** — We received the NSF CAIG grant [Award #2530946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530946)!
         - **December 2024** — Congratulations to Reza on our SIAM SDM 2025 paper.
         - **December 2024** — Congratulations to Onur, Peiyu, Reza, and Pouya on four IEEE Big Data 2024 papers.
         - **December 2024** — Congratulations to Khaznah, Pouya, and Omar on three ICPR 2024 papers.
         - **October 2024** — Congratulations to Santosh on our IEEE DSAA 2024 paper.
         - **May 2024** — Congratulations to Cory and Santosh on our AAAI ICWSM 2024 paper.
         - **December 2023** — Congratulations to Omar, Peiyu, Cory, and Santosh on three IEEE Big Data 2023 papers.
-        - **February 2023** — I received the NSF SHINE grant [Award #2301397](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301397) !
+        - **February 2023** — I received the NSF SHINE grant [Award #2301397](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301397)!
         - **December 2022** — Congratulations to Omar and Peiyu on two IEEE Big Data 2022 papers.
         - **October 2022** — Congratulations to Soukaina on our ACM CIKM 2022 paper.
         - **August 2022** — I started my Assistant Professor position at CS USU.
         - **May 2022** — Congratulations to Cory on our AAAI ICWSM 2022 paper.
-        - **January 2022** — I received the NSF CRII award [Award #2305781](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2305781) !
+        - **January 2022** — I received the NSF CRII award [Award #2305781](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2305781)!
         - **August 2020** — I started my Assistant Professor position at CS NMSU.
     design:
       columns: "1"
-      
 
-  # 3) FEATURED PUBLICATIONS (keep)
+  # 3) FEATURED PUBLICATIONS
   - block: collection
     id: papers
     content:
@@ -67,18 +66,18 @@ sections:
       view: article-grid
       columns: 2
 
-  # 4) Recent Publications
+  # 4) PAPERS (all publications together)
   - block: collection
-  content:
-    title: Papers
-    filters:
-      folders: ["publication"]
-      exclude_featured: false
-      exclude_future: false
-      # (omit publication_type to show all)
-  design:
-    view: citation   # this view shows title/venue/year; no body text if you removed it
-    columns: 1
-
-
+    id: all-papers
+    content:
+      title: Papers
+      text: ""
+      filters:
+        folders: ["publication"]
+        exclude_featured: false
+        exclude_future: false
+        # Omit 'publication_type' to include journals + conferences
+    design:
+      view: citation
+      columns: 1
 ---
