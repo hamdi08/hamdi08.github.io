@@ -69,13 +69,16 @@ sections:
 
   # 4) Recent Publications
   - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        publication_type: ""
-        folders:
-          - publication
-        exclude_featured: false
+  content:
+    title: Papers
+    filters:
+      folders: ["publication"]
+      exclude_featured: false
+      exclude_future: false
+      # (omit publication_type to show all)
+  design:
+    view: citation   # this view shows title/venue/year; no body text if you removed it
+    columns: 1
+
 
 ---
