@@ -3,7 +3,6 @@ title: "Evaluating Time Series Augmentation Techniques for Deep Learning-Based S
 authors: ["P. Li", "O. Bahri", "S.F. Boubrahimi", "Shah Muhammad Hamdi"]
 date: 2025-01-01
 publication_types: ["2"]
-draft: true
 publication: "The Astrophysical Journal Supplement Series (accepted)"
 featured: false
 ---
