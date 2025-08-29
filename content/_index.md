@@ -63,7 +63,7 @@ sections:
         folders: ["publication"]
         featured_only: true
     design:
-      view: article-grid
+      view: citation
       columns: 2
 
   # 4) PAPERS (all publications together)
