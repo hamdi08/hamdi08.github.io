@@ -22,8 +22,7 @@ publishDate: '2025-08-29T09:33:43.528219Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types:
-- paper-conference
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*International Conference on Pattern Recognition*'
