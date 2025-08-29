@@ -68,14 +68,21 @@ sections:
       columns: 2
 
   # 4) RECENT PUBLICATIONS (move to end)
-  - block: collection
+    - block: collection
     content:
-      title: Recent Publications
-      text: ""
+      title: Conference Papers
       filters:
-        publication_type: ""
-        folders: ["publication"]
-        exclude_featured: false
-    design:
-      view: citation
+        folders:
+          - publication
+        publication_type: "1"
+
+    - block: collection
+    content:
+      title: Journal Articles
+      filters:
+        folders:
+          - publication
+        publication_type: "2"
+
+
 ---
