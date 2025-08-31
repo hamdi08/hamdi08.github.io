@@ -74,5 +74,3 @@ links:
 - name: URL
   url: https://doi.org/10.1137/1.9781611978520.59
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
