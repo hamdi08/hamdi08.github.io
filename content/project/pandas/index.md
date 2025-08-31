@@ -2,7 +2,7 @@
 title: CAIG
 date: 2025-07-08
 links:
-  - type: site
+  - type: Award 2530946
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530946
 tags:
   - NSF
