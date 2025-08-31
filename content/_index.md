@@ -61,9 +61,12 @@ sections:
     content:
       title: "Research Overview"
       text: |-
-        {{< youtube LTcjvzMj1a8 >}}
+        <div class="home-video">
+          {{< youtube LTcjvzMj1a8 >}}
+        </div>
     design:
       columns: "1"
+      css_class: "video-block"
 
 
   # 3) FEATURED PUBLICATIONS
