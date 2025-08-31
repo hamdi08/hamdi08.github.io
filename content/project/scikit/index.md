@@ -1,15 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: CRII (OAC)
+date: 2022-11-07
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2305781
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+This project developed a public, web-based cyberinfrastructure with a GUI that enabled machine learning on both multivariate time series (MVTS) and functional network representations, supporting predictive, exploratory, and generative tasks across domains such as solar physics and neuroscience. By integrating advanced ML models and synthetic data generation, the platform improved applications like solar flare forecasting and neurological disease prediction, while fostering interdisciplinary research, curriculum development, and outreach to underrepresented students.
 
 <!--more-->
