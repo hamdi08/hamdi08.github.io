@@ -1,7 +1,6 @@
 ---
 title: Publications
-# Controls the section list view:
-design:
-  view: citation     # <- this makes it citation-only
-  columns: '1'
+# View:
+# 1 = list, 2 = compact, 3 = card, 4 = citation
+view: 4
 ---
