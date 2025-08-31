@@ -72,5 +72,3 @@ links:
 - name: URL
   url: https://doi.org/10.1109/ICDM.2019.00037
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
