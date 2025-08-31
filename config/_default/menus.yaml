@@ -22,3 +22,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Lab
+    url: lab/
+    weight: 50
