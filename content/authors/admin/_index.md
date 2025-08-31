@@ -1,6 +1,6 @@
 ---
 # Display name (used on cards/headline)
-title: "Shah Muhammad Hamdi"
+title: "Shah Muhammad Hamdi, PhD"
 
 # Role/position
 role: "Assistant Professor of Computer Science"
