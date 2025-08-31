@@ -10,7 +10,7 @@ title: "Recent News"
 - **July 2025** — We received the NSF CAIG grant [Award #2530946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530946) !  
 - **December 2024** — Congratulations to Reza on our SIAM SDM 2025 paper.
 - **December 2024** — Congratulations to Onur, Peiyu, Reza, and Pouya on four IEEE Big Data 2024 papers.
-- - **December 2024** — We got featured in [Utah State Today](https://www.usu.edu/today/story/here-comes-the-sun-usu-computer-scientists-develop-models-to-predict-extreme-solar-phenomena).
+- **December 2024** — We got featured in [Utah State Today](https://www.usu.edu/today/story/here-comes-the-sun-usu-computer-scientists-develop-models-to-predict-extreme-solar-phenomena).
 - **December 2024** — Congratulations to Khaznah, Pouya, and Omar on three ICPR 2024 papers.
 - **October 2024** — Congratulations to Santosh on our IEEE DSAA 2024 paper.
 - **May 2024** — Congratulations to Cory and Santosh on our AAAI ICWSM 2024 paper.
