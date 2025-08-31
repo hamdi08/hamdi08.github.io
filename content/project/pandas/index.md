@@ -1,5 +1,5 @@
 ---
-title: CAIG - Synthetic Data Generation for Solar Energetic Particle Events by Multimodal Augmentation
+title: CAIG Synthetic Data Generation for Solar Energetic Particle Events by Multimodal Augmentation
 date: 2025-07-08
 links:
   - type: Site
