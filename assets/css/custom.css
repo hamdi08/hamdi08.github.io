@@ -68,3 +68,14 @@
   }
 }
 
+/* Make the video nicely prominent and centered */
+.video-block .home-video {
+  max-width: 1100px;   /* tweak as you like */
+  margin: 0 auto;
+}
+.video-block iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+
