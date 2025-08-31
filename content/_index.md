@@ -56,21 +56,15 @@ sections:
       columns: "1"
     
 # 3) RESEARCH OVERVIEW (YouTube)
-  - block: markdown
+- block: markdown
   id: research-overview
   content:
     title: "Research Overview"
     text: |-
-      <div class="home-video">
-        <iframe
-          src="https://www.youtube.com/embed/LTcjvzMj1a8"
-          title="Research Overview"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-      </div>
+      {{< youtube LTcjvzMj1a8 >}}
   design:
     columns: "1"
+
 
 
 
