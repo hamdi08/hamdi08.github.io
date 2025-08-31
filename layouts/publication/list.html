@@ -1,8 +1,8 @@
 {{ define "main" }}
-  <section id="publications" class="pub-list">
-    {{ $pages := where .Site.RegularPages "Section" "publication" }}
-    {{ range $pages.ByDate.Reverse }}
-      {{ partial "views/li_citation" . }}
-    {{ end }}
-  </section>
+<section id="publications" class="pub-list">
+  {{ $pages := where .Site.RegularPages "Section" "publication" }}
+  {{ range $pages.ByDate.Reverse }}
+    {{ .Render "li_citation" }}   {{/* use the theme’s content-view, not a partial */}}
+  {{ end }}
+</section>
 {{ end }}
