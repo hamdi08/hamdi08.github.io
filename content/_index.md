@@ -57,16 +57,21 @@ sections:
     
 # 3) RESEARCH OVERVIEW (YouTube)
   - block: markdown
-    id: research-overview
-    content:
-      title: "Research Overview"
-      text: |-
-        <div class="home-video">
-          {{< youtube LTcjvzMj1a8 >}}
-        </div>
-    design:
-      columns: "1"
-      css_class: "video-block"
+  id: research-overview
+  content:
+    title: "Research Overview"
+    text: |-
+      <div class="home-video">
+        <iframe
+          src="https://www.youtube.com/embed/LTcjvzMj1a8"
+          title="Research Overview"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+      </div>
+  design:
+    columns: "1"
+
 
 
   # 4) FEATURED PUBLICATIONS
