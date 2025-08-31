@@ -1,15 +1,15 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: CAIG
+date: 2025-07-08
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530946
 tags:
-  - Hugo
+  - NSF
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This project will generate realistic synthetic data of Solar Energetic Particle (SEP) events by integrating multimodal satellite observations and developing advanced generative AI frameworks, addressing the critical scarcity of training data in space weather forecasting. The resulting datasets and predictive tools will improve SEP prediction, enhance space infrastructure resilience, and foster broad educational and community impacts through student training, curriculum integration, and public outreach.
 
 <!--more-->
