@@ -73,5 +73,3 @@ links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024SW003982
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
