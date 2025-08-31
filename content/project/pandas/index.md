@@ -2,7 +2,7 @@
 title: Collaborations in Artificial Intelligence and Geosciences (CAIG)
 date: 2025-07-08
 links:
-  - type: 2530946
+  - type: Site
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530946
 ---
 
