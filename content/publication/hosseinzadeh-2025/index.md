@@ -73,5 +73,3 @@ links:
 - name: URL
   url: https://dx.doi.org/10.3847/1538-4365/adb1c4
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
