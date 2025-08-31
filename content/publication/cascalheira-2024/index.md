@@ -25,7 +25,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.756761Z'
+publishDate: '2025-08-31T02:57:30.911638Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -38,11 +38,7 @@ publication_short: ''
 
 doi: 10.1007/s13178-024-01058-4
 
-abstract: During the summer of 2022, monkeypox (mpox) became a public health emergency
-  primarily affecting members of sexual and gender minority (SGM) communities. Understanding
-  how SGM social media users perceived mpox could inform community-based public health
-  prevention strategies for future disease outbreaks. However, social media platform
-  selection could substantially affect the insights drawn about mpox.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

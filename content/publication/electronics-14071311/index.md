@@ -20,7 +20,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.557014Z'
+publishDate: '2025-08-31T02:57:30.706090Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -33,24 +33,7 @@ publication_short: ''
 
 doi: 10.3390/electronics14071311
 
-abstract: As the demand for interpretable machine learning approaches continues to
-  grow, there is an increasing necessity for human involvement in providing informative
-  explanations for model decisions. This is necessary for building trust and transparency
-  in AI-based systems, leading to the emergence of the Explainable Artificial Intelligence
-  (XAI) field. Recently, a novel counterfactual explanation model, CELS, has been
-  introduced. CELS learns a saliency map for the interests of an instance and generates
-  a counterfactual explanation guided by the learned saliency map. While CELS represents
-  the first attempt to exploit learned saliency maps not only to provide intuitive
-  explanations for the reason behind the decision made by the time series classifier
-  but also to explore post hoc counterfactual explanations, it exhibits limitations
-  in terms of its high validity for the sake of ensuring high proximity and sparsity.
-  In this paper, we present an enhanced approach that builds upon CELS. While the
-  original model achieved promising results in terms of sparsity and proximity, it
-  faced limitations in terms of validity. Our proposed method addresses this limitation
-  by removing mask normalization to provide more informative and valid counterfactual
-  explanations. Through extensive experimentation on datasets from various domains,
-  we demonstrate that our approach outperforms the CELS model, achieving higher validity
-  and producing more informative explanations.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

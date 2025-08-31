@@ -18,7 +18,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.730744Z'
+publishDate: '2025-08-31T02:57:30.888352Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,19 +31,7 @@ publication_short: ''
 
 doi: 10.1007/s10618-024-01028-9
 
-abstract: The opacity inherent in machine learning models presents a significant hindrance
-  to their widespread incorporation into decision-making processes. To address this
-  challenge and foster trust among stakeholders while ensuring decision fairness,
-  the data mining community has been actively advancing the explainable artificial
-  intelligence paradigm. This paper contributes to the evolving field by focusing
-  on counterfactual generation for time series classification models, a domain where
-  research is relatively scarce. We develop, a post-hoc, model agnostic counterfactual
-  explanation algorithm that leverages the Matrix Profile to map time series discords
-  to their nearest neighbors in a target sequence and use this mapping to generate
-  new counterfactual instances. To our knowledge, this is the first effort towards
-  the use of time series discords for counterfactual explanations. We evaluate our
-  algorithm on the University of California Riverside and University of East Anglia
-  archives and compare it to three state-of-the-art univariate and multivariate methods.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

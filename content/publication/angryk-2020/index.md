@@ -26,7 +26,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.930835Z'
+publishDate: '2025-08-31T02:57:31.085873Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -39,22 +39,7 @@ publication_short: ''
 
 doi: 10.1038/s41597-020-0548-x
 
-abstract: 'We introduce and make openly accessible a comprehensive, multivariate time
-  series (MVTS) dataset extracted from solar photospheric vector magnetograms in Spaceweather
-  HMI Active Region Patch (SHARP) series. Our dataset also includes a cross-checked
-  NOAA solar flare catalog that immediately facilitates solar flare prediction efforts.
-  We discuss methods used for data collection, cleaning and pre-processing of the
-  solar active region and flare data, and we further describe a novel data integration
-  and sampling methodology. Our dataset covers 4,098 MVTS data collections from active
-  regions occurring between May 2010 and December 2018, includes 51 flare-predictive
-  parameters, and integrates over 10,000 flare reports. Potential directions toward
-  expansion of the time series, either “horizontally” – by adding more prediction-specific
-  parameters, or “vertically” – by generalizing flare into integrated solar eruption
-  prediction, are also explained. The immediate tasks enabled by the disseminated
-  dataset include: optimization of solar flare prediction and detailed investigation
-  for elusive flare predictors or precursors, with both operational (research-to-operations),
-  and basic research (operations-to-research) benefits potentially following in the
-  future.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

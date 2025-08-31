@@ -18,7 +18,7 @@ author_notes: []
 date: '2025-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.539532Z'
+publishDate: '2025-08-31T02:57:30.690570Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,23 +31,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4365/adb1c4
 
-abstract: Solar energetic particle (SEP) events, in particular high-energy-range SEP
-  events, pose significant risks to space missions, astronauts, and technological
-  infrastructure. Accurate prediction of these high-impact events is crucial for mitigating
-  potential hazards. In this study, we present an end-to-end ensemble machine learning
-  (ML) framework for the prediction of high-impact ∼100 MeV SEP events. Our approach
-  leverages diverse data modalities sourced from the Solar and Heliospheric Observatory
-  and the Geostationary Operational Environmental Satellite integrating extracted
-  active region polygons from solar extreme ultraviolet (EUV) imagery, time-series
-  proton flux measurements, sunspot activity data, and detailed active region characteristics.
-  To quantify the predictive contribution of each data modality (e.g., EUV or time
-  series), we independently evaluate them using a range of ML models to assess their
-  performance in forecasting SEP events. Finally, to enhance the SEP predictive performance,
-  we train an ensemble learning model that combines all the models trained on individual
-  data modalities, leveraging the strengths of each data modality. Our proposed ensemble
-  approach shows promising performance, achieving a recall of 0.80 and 0.75 in balanced
-  and imbalanced settings, respectively, underscoring the effectiveness of multimodal
-  data integration for robust SEP event prediction and enhanced forecasting capabilities.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

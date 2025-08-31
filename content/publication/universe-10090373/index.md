@@ -18,7 +18,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.748187Z'
+publishDate: '2025-08-31T02:57:30.903886Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,22 +31,7 @@ publication_short: ''
 
 doi: 10.3390/universe10090373
 
-abstract: Solar flares are significant occurrences in solar physics, impacting space
-  weather and terrestrial technologies. Accurate classification of solar flares is
-  essential for predicting space weather and minimizing potential disruptions to communication,
-  navigation, and power systems. This study addresses the challenge of selecting the
-  most relevant features from multivariate time-series data, specifically focusing
-  on solar flares. We employ methods such as Mutual Information (MI), Minimum Redundancy
-  Maximum Relevance (mRMR), and Euclidean Distance to identify key features for classification.
-  Recognizing the performance variability of different feature selection techniques,
-  we introduce an ensemble approach to compute feature weights. By combining outputs
-  from multiple methods, our ensemble method provides a more comprehensive understanding
-  of the importance of features. Our results show that the ensemble approach significantly
-  improves classification performance, achieving values 0.15 higher in True Skill
-  Statistic (TSS) values compared to individual feature selection methods. Additionally,
-  our method offers valuable insights into the underlying physical processes of solar
-  flares, leading to more effective space weather forecasting and enhanced mitigation
-  strategies for communication, navigation, and power system disruptions.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

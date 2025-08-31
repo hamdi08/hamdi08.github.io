@@ -18,7 +18,7 @@ author_notes: []
 date: '2024-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.676301Z'
+publishDate: '2025-08-31T02:57:30.823307Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,27 +31,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4365/ad21e4
 
-abstract: Photospheric magnetic field parameters are frequently used to analyze and
-  predict solar events. Observation of these parameters over time, i.e., representing
-  solar events by multivariate time-series (MVTS) data, can determine relationships
-  between magnetic field states in active regions and extreme solar events, e.g.,
-  solar flares. We can improve our understanding of these events by selecting the
-  most relevant parameters that give the highest predictive performance. In this study,
-  we propose a two-step incremental feature selection method for MVTS data using a
-  deep-learning model based on long short-term memory (LSTM) networks. First, each
-  MVTS feature (magnetic field parameter) is evaluated individually by a univariate
-  sequence classifier utilizing an LSTM network. Then, the top performing features
-  are combined to produce input for an LSTM-based multivariate sequence classifier.
-  Finally, we tested the discrimination ability of the selected features by training
-  downstream classifiers, e.g., Minimally Random Convolutional Kernel Transform and
-  support vector machine. We performed our experiments using a benchmark data set
-  for flare prediction known as Space Weather Analytics for Solar Flares. We compared
-  our proposed method with three other baseline feature selection methods and demonstrated
-  that our method selects more discriminatory features compared to other methods.
-  Due to the imbalanced nature of the data, primarily caused by the rarity of minority
-  flare classes (e.g., the X and M classes), we used the true skill statistic as the
-  evaluation metric. Finally, we reported the set of photospheric magnetic field parameters
-  that give the highest discrimination performance in predicting flare classes.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

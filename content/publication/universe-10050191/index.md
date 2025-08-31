@@ -18,7 +18,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.704076Z'
+publishDate: '2025-08-31T02:57:30.864784Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,23 +31,7 @@ publication_short: ''
 
 doi: 10.3390/universe10050191
 
-abstract: 'Solar wind modeling is classified into two main types: empirical models
-  and physics-based models, each designed to forecast solar wind properties in various
-  regions of the heliosphere. Empirical models, which are cost-effective, have demonstrated
-  significant accuracy in predicting solar wind at the L1 Lagrange point. On the other
-  hand, physics-based models rely on magnetohydrodynamics (MHD) principles and demand
-  more computational resources. In this research paper, we build upon our recent novel
-  approach that merges empirical and physics-based models. Our recent proposal involves
-  the creation of a new physics-informed neural network that leverages time series
-  data from solar wind predictors to enhance solar wind prediction. This innovative
-  method aims to combine the strengths of both modeling approaches to achieve more
-  accurate and efficient solar wind predictions. In this work, we show the variability
-  of the proposed physics-informed loss across multiple deep learning models. We also
-  study the effect of training the models on different solar cycles on the model’s
-  performance. This work represents the first effort to predict solar wind by integrating
-  deep learning approaches with physics constraints and analyzing the results across
-  three solar cycles. Our findings demonstrate the superiority of our physics-constrained
-  model over other unconstrained deep learning predictive models.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

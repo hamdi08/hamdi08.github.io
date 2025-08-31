@@ -18,7 +18,7 @@ author_notes: []
 date: '2024-02-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.685175Z'
+publishDate: '2025-08-31T02:57:30.846915Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,25 +31,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4365/ad1de0
 
-abstract: Solar energetic particles (SEPs) are associated with extreme solar events
-  that can cause major damage to space- and ground-based life and infrastructure.
-  High-intensity SEP events, particularly ∼100 MeV SEP events, can pose severe health
-  risks for astronauts owing to radiation exposure and affect Earth’s orbiting satellites
-  (e.g., Landsat and the International Space Station). A major challenge in the SEP
-  event prediction task is the lack of adequate SEP data because of the rarity of
-  these events. In this work, we aim to improve the prediction of ∼30, ∼60, and ∼100
-  MeV SEP events by synthetically increasing the number of SEP samples. We explore
-  the use of a univariate and multivariate time series of proton flux data as input
-  to machine-learning-based prediction methods, such as time series forest (TSF).
-  Our study covers solar cycles 22, 23, and 24. Our findings show that using data
-  augmentation methods, such as the synthetic minority oversampling technique, remarkably
-  increases the accuracy and F1-score of the classifiers used in this research, especially
-  for TSF, where the average accuracy increased by 20%, reaching around 90% accuracy
-  in the ∼100 MeV SEP prediction task. We also achieved higher prediction accuracy
-  when using the multivariate time series data of the proton flux. Finally, we build
-  a pipeline framework for our best-performing model, TSF, and provide a comprehensive
-  hierarchical classification of the ∼100, ∼60, and ∼30 MeV and non-SEP prediction
-  scenarios.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

@@ -19,7 +19,7 @@ author_notes: []
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.834556Z'
+publishDate: '2025-08-31T02:57:30.991133Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -32,28 +32,7 @@ publication_short: ''
 
 doi: 10.3390/hydrology10020029
 
-abstract: Streamflow prediction plays a vital role in water resources planning in
-  order to understand the dramatic change of climatic and hydrologic variables over
-  different time scales. In this study, we used machine learning (ML)-based prediction
-  models, including Random Forest Regression (RFR), Long Short-Term Memory (LSTM),
-  Seasonal Auto- Regressive Integrated Moving Average (SARIMA), and Facebook Prophet
-  (PROPHET) to predict 24 months ahead of natural streamflow at the Lees Ferry site
-  located at the bottom part of the Upper Colorado River Basin (UCRB) of the US. Firstly,
-  we used only historic streamflow data to predict 24 months ahead. Secondly, we considered
-  meteorological components such as temperature and precipitation as additional features.
-  We tested the models on a monthly test dataset spanning 6 years, where 24-month
-  predictions were repeated 50 times to ensure the consistency of the results. Moreover,
-  we performed a sensitivity analysis to identify our best-performing model. Later,
-  we analyzed the effects of considering different span window sizes on the quality
-  of predictions made by our best model. Finally, we applied our best-performing model,
-  RFR, on two more rivers in different states in the UCRB to test the model’s generalizability.
-  We evaluated the performance of the predictive models using multiple evaluation
-  measures. The predictions in multivariate time-series models were found to be more
-  accurate, with RMSE less than 0.84 mm per month, R-squared more than 0.8, and MAPE
-  less than 0.25. Therefore, we conclude that the temperature and precipitation of
-  the UCRB increases the accuracy of the predictions. Ultimately, we found that multivariate
-  RFR performs the best among four models and is generalizable to other rivers in
-  the UCRB.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

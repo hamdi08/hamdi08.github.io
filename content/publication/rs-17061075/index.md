@@ -19,7 +19,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.530522Z'
+publishDate: '2025-08-31T02:57:30.682818Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -32,29 +32,7 @@ publication_short: ''
 
 doi: 10.3390/rs17061075
 
-abstract: The purpose of this study is to provide a comprehensive resource for the
-  selection of data representations for machine learning-oriented models and components
-  in solar flare prediction tasks. Major solar flares occurring in the solar corona
-  and heliosphere can bring potential destructive consequences, posing significant
-  risks to astronauts, space stations, electronics, communication systems, and numerous
-  technological infrastructures. For this reason, the accurate detection of major
-  flares is essential for mitigating these hazards and ensuring the safety of our
-  technology-dependent society. In response, leveraging machine learning techniques
-  for predicting solar flares has emerged as a significant application within the
-  realm of data science, relying on sensor data collected from solar active region
-  photospheric magnetic fields by space- and ground-based observatories. In this research,
-  three distinct solar flare prediction strategies utilizing the photospheric magnetic
-  field parameter-based multivariate time series dataset are evaluated, with a focus
-  on data representation techniques. Specifically, we examine vector-based, time series-based,
-  and graph-based approaches to identify the most effective data representation for
-  capturing key characteristics of the dataset. The vector-based approach condenses
-  multivariate time series into a compressed vector form, the time series representation
-  leverages temporal patterns, and the graph-based method models interdependencies
-  between magnetic field parameters. The results demonstrate that the vector representation
-  approach exhibits exceptional robustness in predicting solar flares, consistently
-  yielding strong and reliable classification outcomes by effectively encapsulating
-  the intricate relationships within photospheric magnetic field data when coupled
-  with appropriate downstream machine learning classifiers.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -62,7 +40,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: ''

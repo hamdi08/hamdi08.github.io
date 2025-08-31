@@ -20,7 +20,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.712697Z'
+publishDate: '2025-08-31T02:57:30.872575Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -33,28 +33,7 @@ publication_short: ''
 
 doi: 10.1029/2023WR036342
 
-abstract: Abstract With increasing demands for precise water resource management,
-  there is a growing need for advanced techniques in mapping water bodies. The currently
-  deployed satellites provide complementary data that are either of high spatial or
-  high temporal resolutions. As a result, there is a clear trade-off between space
-  and time when considering a single data source. For the efficient monitoring of
-  multiple environmental resources, various Earth science applications need data at
-  high spatial and temporal resolutions. To address this need, many data fusion methods
-  have been described in the literature, that rely on combining data snapshots from
-  multiple sources. Traditional methods face limitations due to sensitivity to atmospheric
-  disturbances and other environmental factors, resulting in noise, outliers, and
-  missing data. This paper introduces Hydrological Generative Adversarial Network
-  (Hydro-GAN), a novel machine learning-based method that utilizes modified GANs to
-  enhance boundary accuracy when mapping low-resolution MODIS data to high-resolution
-  Landsat-8 images. We propose a new non-saturating loss function for the Hydro-GAN
-  generator, which maximizes the log of discriminator probabilities to promote stable
-  updates and aid convergence. By focusing on reducing squared differences between
-  real and synthetic images, our approach enhances training stability and overall
-  performance. We specifically focus on mapping water bodies using MODIS and Landsat-8
-  imagery due to their relevance in water resource management tasks. Our experimental
-  results demonstrate the effectiveness of Hydro-GAN in generating high-resolution
-  water body maps, outperforming traditional methods in terms of boundary accuracy
-  and overall quality.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''

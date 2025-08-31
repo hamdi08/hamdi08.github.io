@@ -18,7 +18,7 @@ author_notes: []
 date: '2025-02-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-31T01:35:12.548316Z'
+publishDate: '2025-08-31T02:57:30.698343Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,22 +31,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ada601
 
-abstract: Solar energetic particle (SEP) events pose significant risks to both space
-  and ground-level infrastructure, as well as to human health in space. Understanding
-  and predicting these events are critical for mitigating their potential impacts.
-  In this paper, we address the challenge of predicting SEP events using proton flux
-  data. We leverage some of the most recent advances in time series data mining, such
-  as shapelets and the matrix profile, to propose a simple and easily understandable
-  prediction approach. Our objective is to mitigate the interpretability challenges
-  inherent to most machine learning models and to show that other methods exist that
-  can not only yield accurate forecasts but also facilitate exploration and insight
-  generation within the data domain. For this purpose, we construct a multivariate
-  time series data set consisting of proton flux data recorded by the National Oceanic
-  and Atmospheric Administration's geosynchronous orbit Earth-observing satellite.
-  Then, we use our proposed approach to mine shapelets and make predictions using
-  a random forest classifier. We demonstrate that our approach rivals state-of-the-art
-  SEP prediction, offering superior interpretability and the ability to predict SEP
-  events before their parent eruptive flares.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
