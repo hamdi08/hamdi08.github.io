@@ -550,58 +550,86 @@ year = {2024}
 
 
 
-@article{thota2024enhancing,
-  title={Enhancing monthly streamflow prediction using meteorological factors and machine learning models in the upper Colorado River basin},
-  author={Thota, Saichand and Nassar, Ayman and Filali Boubrahimi, Soukaina and Hamdi, Shah Muhammad and Hosseinzadeh, Pouya},
-  journal={Hydrology},
-  volume={11},
-  number={5},
-  pages={66},
-  year={2024},
-  publisher={MDPI}
+
+@Article{hydrology11050066,
+AUTHOR = {Thota, Saichand and Nassar, Ayman and Filali Boubrahimi, Soukaina and Hamdi, Shah Muhammad and Hosseinzadeh, Pouya},
+TITLE = {Enhancing Monthly Streamflow Prediction Using Meteorological Factors and Machine Learning Models in the Upper Colorado River Basin},
+JOURNAL = {Hydrology},
+VOLUME = {11},
+YEAR = {2024},
+NUMBER = {5},
+ARTICLE-NUMBER = {66},
+URL = {https://www.mdpi.com/2306-5338/11/5/66},
+ISSN = {2306-5338},
+ABSTRACT = {Streamflow prediction is crucial for planning future developments and safety measures along river basins, especially in the face of changing climate patterns. In this study, we utilized monthly streamflow data from the United States Bureau of Reclamation and meteorological data (snow water equivalent, temperature, and precipitation) from the various weather monitoring stations of the Snow Telemetry Network within the Upper Colorado River Basin to forecast monthly streamflow at Lees Ferry, a specific location along the Colorado River in the basin. Four machine learning models—Random Forest Regression, Long short-term memory, Gated Recurrent Unit, and Seasonal AutoRegresive Integrated Moving Average—were trained using 30 years of monthly data (1991–2020), split into 80% for training (1991–2014) and 20% for testing (2015–2020). Initially, only historical streamflow data were used for predictions, followed by including meteorological factors to assess their impact on streamflow. Subsequently, sequence analysis was conducted to explore various input-output sequence window combinations. We then evaluated the influence of each factor on streamflow by testing all possible combinations to identify the optimal feature combination for prediction. Our results indicate that the Random Forest Regression model consistently outperformed others, especially after integrating all meteorological factors with historical streamflow data. The best performance was achieved with a 24-month look-back period to predict 12 months of streamflow, yielding a Root Mean Square Error of 2.25 and R-squared (R2) of 0.80. Finally, to assess model generalizability, we tested the best model at other locations—Greenwood Springs (Colorado River), Maybell (Yampa River), and Archuleta (San Juan) in the basin.},
+DOI = {10.3390/hydrology11050066}
 }
 
-@article{bahri2024discord,
-  title={Discord-based counterfactual explanations for time series classification},
-  author={Bahri, Omar and Li, Peiyu and Filali Boubrahimi, Soukaina and Hamdi, Shah Muhammad},
-  journal={Data Mining and Knowledge Discovery},
-  volume={38},
-  number={6},
-  pages={3347--3371},
-  year={2024},
-  publisher={Springer}
+
+
+
+@article{Bahri2024,
+  author    = {Omar Bahri and Peiyu Li and Soukaina Filali Boubrahimi and Shah Muhammad Hamdi},
+  title     = {Discord-based counterfactual explanations for time series classification},
+  journal   = {Data Mining and Knowledge Discovery},
+  year      = {2024},
+  volume    = {38},
+  number    = {6},
+  pages     = {3347--3371},
+  doi       = {10.1007/s10618-024-01028-9},
+  url       = {https://doi.org/10.1007/s10618-024-01028-9},
+  issn      = {1573-756X},
+  abstract  = {The opacity inherent in machine learning models presents a significant hindrance to their widespread incorporation into decision-making processes. To address this challenge and foster trust among stakeholders while ensuring decision fairness, the data mining community has been actively advancing the explainable artificial intelligence paradigm. This paper contributes to the evolving field by focusing on counterfactual generation for time series classification models, a domain where research is relatively scarce. We develop, a post-hoc, model agnostic counterfactual explanation algorithm that leverages the Matrix Profile to map time series discords to their nearest neighbors in a target sequence and use this mapping to generate new counterfactual instances. To our knowledge, this is the first effort towards the use of time series discords for counterfactual explanations. We evaluate our algorithm on the University of California Riverside and University of East Anglia archives and compare it to three state-of-the-art univariate and multivariate methods.}
 }
 
-@article{saini2024classification,
-  title={Classification of major solar flares from extremely imbalanced multivariate time series data using minimally random convolutional kernel transform},
-  author={Saini, Kartik and Alshammari, Khaznah and Hamdi, Shah Muhammad and Filali Boubrahimi, Soukaina},
-  journal={Universe},
-  volume={10},
-  number={6},
-  pages={234},
-  year={2024},
-  publisher={MDPI}
+
+@Article{universe10060234,
+AUTHOR = {Saini, Kartik and Alshammari, Khaznah and Hamdi, Shah Muhammad and Filali Boubrahimi, Soukaina},
+TITLE = {Classification of Major Solar Flares from Extremely Imbalanced Multivariate Time Series Data Using Minimally Random Convolutional Kernel Transform},
+JOURNAL = {Universe},
+VOLUME = {10},
+YEAR = {2024},
+NUMBER = {6},
+ARTICLE-NUMBER = {234},
+URL = {https://www.mdpi.com/2218-1997/10/6/234},
+ISSN = {2218-1997},
+ABSTRACT = {Solar flares are characterized by sudden bursts of electromagnetic radiation from the Sun’s surface, and are caused by the changes in magnetic field states in active solar regions. Earth and its surrounding space environment can suffer from various negative impacts caused by solar flares, ranging from electronic communication disruption to radiation exposure-based health risks to astronauts. In this paper, we address the solar flare prediction problem from magnetic field parameter-based multivariate time series (MVTS) data using multiple state-of-the-art machine learning classifiers that include MINImally RandOm Convolutional KErnel Transform (MiniRocket), Support Vector Machine (SVM), Canonical Interval Forest (CIF), Multiple Representations Sequence Learner (Mr-SEQL), and a Long Short-Term Memory (LSTM)-based deep learning model. Our experiment is conducted on the Space Weather Analytics for Solar Flares (SWAN-SF) benchmark data set, which is a partitioned collection of MVTS data of active region magnetic field parameters spanning over nine years of operation of the Solar Dynamics Observatory (SDO). The MVTS instances of the SWAN-SF dataset are labeled by GOES X-ray flux-based flare class labels, and attributed to extreme class imbalance because of the rarity of the major flaring events (e.g., X and M). As a performance validation metric in this class-imbalanced dataset, we used the True Skill Statistic (TSS) score. Finally, we demonstrate the advantages of the MVTS learning algorithm MiniRocket, which outperformed the aforementioned classifiers without the need for essential data preprocessing steps such as normalization, statistical summarization, and class imbalance handling heuristics.},
+DOI = {10.3390/universe10060234}
 }
 
-@article{velanki2024time,
-  title={Time-series feature selection for solar flare forecasting},
-  author={Velanki, Yagnashree and Hosseinzadeh, Pouya and Boubrahimi, Soukaina Filali and Hamdi, Shah Muhammad},
-  journal={Universe},
-  volume={10},
-  number={9},
-  pages={373},
-  year={2024},
-  publisher={MDPI}
+
+
+
+
+
+@Article{universe10090373,
+AUTHOR = {Velanki, Yagnashree and Hosseinzadeh, Pouya and Boubrahimi, Soukaina Filali and Hamdi, Shah Muhammad},
+TITLE = {Time-Series Feature Selection for Solar Flare Forecasting},
+JOURNAL = {Universe},
+VOLUME = {10},
+YEAR = {2024},
+NUMBER = {9},
+ARTICLE-NUMBER = {373},
+URL = {https://www.mdpi.com/2218-1997/10/9/373},
+ISSN = {2218-1997},
+ABSTRACT = {Solar flares are significant occurrences in solar physics, impacting space weather and terrestrial technologies. Accurate classification of solar flares is essential for predicting space weather and minimizing potential disruptions to communication, navigation, and power systems. This study addresses the challenge of selecting the most relevant features from multivariate time-series data, specifically focusing on solar flares. We employ methods such as Mutual Information (MI), Minimum Redundancy Maximum Relevance (mRMR), and Euclidean Distance to identify key features for classification. Recognizing the performance variability of different feature selection techniques, we introduce an ensemble approach to compute feature weights. By combining outputs from multiple methods, our ensemble method provides a more comprehensive understanding of the importance of features. Our results show that the ensemble approach significantly improves classification performance, achieving values 0.15 higher in True Skill Statistic (TSS) values compared to individual feature selection methods. Additionally, our method offers valuable insights into the underlying physical processes of solar flares, leading to more effective space weather forecasting and enhanced mitigation strategies for communication, navigation, and power system disruptions.},
+DOI = {10.3390/universe10090373}
 }
 
-@article{cascalheira2024analysis,
-  title={An Analysis of Mpox Communication on Reddit vs Twitter During the 2022 Mpox Outbreak},
-  author={Cascalheira, Cory J and Corro, Kelsey and Hong, Chenglin and Rohleen, Taylor K and Trac, Ollie and Beikzadeh, Mehrab and Scheer, Jillian R and Hamdi, Shah Muhammad and Boubrahimi, Soukaina Filali and Holloway, Ian W},
-  journal={Sexuality Research and Social Policy},
-  pages={1--16},
-  year={2024},
-  publisher={Springer}
+
+
+
+@article{Cascalheira2024,
+  author    = {Cory J. Cascalheira and Kelsey Corro and Chenglin Hong and Taylor K. Rohleen and Ollie Trac and Mehrab Beikzadeh and Jillian R. Scheer and Shah Muhammad Hamdi and Soukaina Filali Boubrahimi and Ian W. Holloway},
+  title     = {An Analysis of Mpox Communication on Reddit vs Twitter During the 2022 Mpox Outbreak},
+  journal   = {Sexuality Research and Social Policy},
+  year      = {2024},
+  doi       = {10.1007/s13178-024-01058-4},
+  url       = {https://doi.org/10.1007/s13178-024-01058-4},
+  issn      = {1553-6610},
+  abstract  = {During the summer of 2022, monkeypox (mpox) became a public health emergency primarily affecting members of sexual and gender minority (SGM) communities. Understanding how SGM social media users perceived mpox could inform community-based public health prevention strategies for future disease outbreaks. However, social media platform selection could substantially affect the insights drawn about mpox.}
 }
+
 
 @inproceedings{DBLP:conf/bigdataconf/BahriLBH23,
   author       = {Omar Bahri and
@@ -825,27 +853,40 @@ year = {2024}
 
 
 
-@article{hosseinzadeh2023ml,
-  title={Ml-based streamflow prediction in the upper Colorado river basin using climate variables time series data},
-  author={Hosseinzadeh, Pouya and Nassar, Ayman and Boubrahimi, Soukaina Filali and Hamdi, Shah Muhammad},
-  journal={Hydrology},
-  volume={10},
-  number={2},
-  pages={29},
-  year={2023},
-  publisher={MDPI}
+@Article{hydrology10020029,
+AUTHOR = {Hosseinzadeh, Pouya and Nassar, Ayman and Boubrahimi, Soukaina Filali and Hamdi, Shah Muhammad},
+TITLE = {ML-Based Streamflow Prediction in the Upper Colorado River Basin Using Climate Variables Time Series Data},
+JOURNAL = {Hydrology},
+VOLUME = {10},
+YEAR = {2023},
+NUMBER = {2},
+ARTICLE-NUMBER = {29},
+URL = {https://www.mdpi.com/2306-5338/10/2/29},
+ISSN = {2306-5338},
+ABSTRACT = {Streamflow prediction plays a vital role in water resources planning in order to understand the dramatic change of climatic and hydrologic variables over different time scales. In this study, we used machine learning (ML)-based prediction models, including Random Forest Regression (RFR), Long Short-Term Memory (LSTM), Seasonal Auto- Regressive Integrated Moving Average (SARIMA), and Facebook Prophet (PROPHET) to predict 24 months ahead of natural streamflow at the Lees Ferry site located at the bottom part of the Upper Colorado River Basin (UCRB) of the US. Firstly, we used only historic streamflow data to predict 24 months ahead. Secondly, we considered meteorological components such as temperature and precipitation as additional features. We tested the models on a monthly test dataset spanning 6 years, where 24-month predictions were repeated 50 times to ensure the consistency of the results. Moreover, we performed a sensitivity analysis to identify our best-performing model. Later, we analyzed the effects of considering different span window sizes on the quality of predictions made by our best model. Finally, we applied our best-performing model, RFR, on two more rivers in different states in the UCRB to test the model’s generalizability. We evaluated the performance of the predictive models using multiple evaluation measures. The predictions in multivariate time-series models were found to be more accurate, with RMSE less than 0.84 mm per month, R-squared more than 0.8, and MAPE less than 0.25. Therefore, we conclude that the temperature and precipitation of the UCRB increases the accuracy of the predictions. Ultimately, we found that multivariate RFR performs the best among four models and is generalizable to other rivers in the UCRB.},
+DOI = {10.3390/hydrology10020029}
 }
 
-@article{cascalheira2023models,
-  title={Models of gender dysphoria using social media data for use in technology-delivered interventions: Machine learning and natural language processing validation study},
-  author={Cascalheira, Cory J and Flinn, Ryan E and Zhao, Yuxuan and Klooster, Dannie and Laprade, Danica and Hamdi, Shah Muhammad and Scheer, Jillian R and Gonzalez, Alejandra and Lund, Emily M and Gomez, Ivan N and others},
-  journal={JMIR Formative Research},
-  volume={7},
-  number={1},
-  pages={e47256},
-  year={2023},
-  publisher={JMIR Publications Inc., Toronto, Canada}
+
+
+
+
+@article{Cascalheira2023,
+  author    = {Cory J. Cascalheira and Ryan E. Flinn and Yuxuan Zhao and Dannie Klooster and Danica Laprade and Shah Muhammad Hamdi and Jillian R. Scheer and Alejandra Gonzalez and Emily M. Lund and Ivan N. Gomez and Koustuv Saha and Munmun De Choudhury},
+  title     = {Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions: Machine Learning and Natural Language Processing Validation Study},
+  journal   = {JMIR Formative Research},
+  year      = {2023},
+  volume    = {7},
+  pages     = {e47256},
+  doi       = {10.2196/47256},
+  url       = {https://doi.org/10.2196/47256},
+  issn      = {2561-326X},
+  pmid      = {37327053},
+  pmcid     = {PMC10337393},
+  publisher = {JMIR Publications},
+  abstract  = {BACKGROUND: The optimal treatment for gender dysphoria is medical intervention, but many transgender and nonbinary people face significant treatment barriers when seeking help for gender dysphoria. When untreated, gender dysphoria is associated with depression, anxiety, suicidality, and substance misuse. Technology-delivered interventions for transgender and nonbinary people can be used discretely, safely, and flexibly, thereby reducing treatment barriers and increasing access to psychological interventions to manage distress that accompanies gender dysphoria. Technology-delivered interventions are beginning to incorporate machine learning (ML) and natural language processing (NLP) to automate intervention components and tailor intervention content. A critical step in using ML and NLP in technology-delivered interventions is demonstrating how accurately these methods model clinical constructs. OBJECTIVE: This study aimed to determine the preliminary effectiveness of modeling gender dysphoria with ML and NLP, using transgender and nonbinary people's social media data. METHODS: Overall, 6 ML models and 949 NLP-generated independent variables were used to model gender dysphoria from the text data of 1573 Reddit posts created on transgender- and nonbinary-specific web-based forums. After developing a codebook grounded in clinical science, a research team of clinicians and students experienced in working with transgender and nonbinary clients used qualitative content analysis to determine whether gender dysphoria was present in each Reddit post. NLP (e.g., n-grams, LIWC, word embedding, sentiment, and transfer learning) was used to transform the linguistic content of each post into predictors for ML algorithms. A k-fold cross-validation was performed. Hyperparameters were tuned with random search. Feature selection was performed to demonstrate the relative importance of each NLP-generated independent variable. Misclassified posts were analyzed to improve future modeling of gender dysphoria. RESULTS: An optimized extreme gradient boosting (XGBoost) algorithm modeled gender dysphoria with high accuracy (0.84), precision (0.83), and speed (1.23s). DSM-5 clinical keywords were most predictive. Misclassifications occurred in posts with uncertainty, unrelated stress, insufficient markers, past experiences, or identity exploration. CONCLUSIONS: ML- and NLP-based models of gender dysphoria have strong potential to be integrated into technology-delivered interventions and contribute to clinical science for marginalized populations.}
 }
+
 
 @inproceedings{DBLP:conf/bigdataconf/BahriLBH22,
   author       = {Omar Bahri and
@@ -1099,16 +1140,20 @@ year = {2024}
 }
 
 
-@article{angryk2020multivariate,
-  title={Multivariate time series dataset for space weather data analytics},
-  author={Angryk, Rafal A and Martens, Petrus C and Aydin, Berkay and Kempton, Dustin and Mahajan, Sushant S and Basodi, Sunitha and Ahmadzadeh, Azim and Cai, Xumin and Filali Boubrahimi, Soukaina and Hamdi, Shah Muhammad and others},
-  journal={Scientific data},
-  volume={7},
-  number={1},
-  pages={227},
-  year={2020},
-  publisher={Nature Publishing Group UK London}
+@article{Angryk2020,
+  author    = {Rafal A. Angryk and Petrus C. Martens and Berkay Aydin and Dustin Kempton and Sushant S. Mahajan and Sunitha Basodi and Azim Ahmadzadeh and Xumin Cai and Soukaina Filali Boubrahimi and Shah Muhammad Hamdi and Michael A. Schuh and Manolis K. Georgoulis},
+  title     = {Multivariate time series dataset for space weather data analytics},
+  journal   = {Scientific Data},
+  year      = {2020},
+  volume    = {7},
+  number    = {1},
+  pages     = {227},
+  doi       = {10.1038/s41597-020-0548-x},
+  url       = {https://doi.org/10.1038/s41597-020-0548-x},
+  issn      = {2052-4463},
+  abstract  = {We introduce and make openly accessible a comprehensive, multivariate time series (MVTS) dataset extracted from solar photospheric vector magnetograms in Spaceweather HMI Active Region Patch (SHARP) series. Our dataset also includes a cross-checked NOAA solar flare catalog that immediately facilitates solar flare prediction efforts. We discuss methods used for data collection, cleaning and pre-processing of the solar active region and flare data, and we further describe a novel data integration and sampling methodology. Our dataset covers 4,098 MVTS data collections from active regions occurring between May 2010 and December 2018, includes 51 flare-predictive parameters, and integrates over 10,000 flare reports. Potential directions toward expansion of the time series, either “horizontally” – by adding more prediction-specific parameters, or “vertically” – by generalizing flare into integrated solar eruption prediction, are also explained. The immediate tasks enabled by the disseminated dataset include: optimization of solar flare prediction and detailed investigation for elusive flare predictors or precursors, with both operational (research-to-operations), and basic research (operations-to-research) benefits potentially following in the future.}
 }
+
 
 @inproceedings{DBLP:conf/icdm/HamdiA19,
   author       = {Shah Muhammad Hamdi and
@@ -1206,16 +1251,41 @@ year = {2024}
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
-@article{hamdi2019identification,
-  title={Identification of discriminative subnetwork from fmri-based complete functional connectivity networks},
-  author={Hamdi, Shah Muhammad and Wu, Yubao and Angryk, Rafal and Krishnamurthy, Lisa Crystal and Morris, Robin},
-  journal={International Journal of Semantic Computing},
-  volume={13},
-  number={01},
-  pages={25--44},
-  year={2019},
-  publisher={World Scientific}
+
+
+
+
+
+
+@article{doi:10.1142/S1793351X19400026,
+author = {Hamdi, Shah Muhammad and Wu, Yubao and Angryk, Rafal and Krishnamurthy, Lisa Crystal and Morris, Robin},
+title = {Identification of Discriminative Subnetwork from fMRI-Based Complete Functional Connectivity Networks},
+journal = {International Journal of Semantic Computing},
+volume = {13},
+number = {01},
+pages = {25-44},
+year = {2019},
+doi = {10.1142/S1793351X19400026},
+
+URL = { 
+    
+        https://doi.org/10.1142/S1793351X19400026
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1142/S1793351X19400026
+    
+    
+
 }
+,
+    abstract = { The comprehensive set of neuronal connections of the human brain, which is known as the human connectomes, has provided valuable insight into neurological and neurodevelopmental disorders. Functional Magnetic Resonance Imaging (fMRI) has facilitated this research by capturing regionally specific brain activity. Resting state fMRI is used to extract the functional connectivity networks, which are edge-weighted complete graphs. In these complete functional connectivity networks, each node represents one brain region or Region of Interest (ROI), and each edge weight represents the strength of functional connectivity of the adjacent ROIs. In order to leverage existing graph mining methodologies, these complete graphs are often made sparse by applying thresholds on weights. This approach can result in loss of discriminative information while addressing the issue of biomarkers detection, i.e. finding discriminative ROIs and connections, given the data of healthy and disabled population. In this work, we demonstrate a novel framework for representing the complete functional connectivity networks in a threshold-free manner and identifying biomarkers by using feature selection algorithms. Additionally, to compute meaningful representations of the discriminative ROIs and connections, we apply tensor decomposition techniques. Experiments on a fMRI dataset of neurodevelopmental reading disabilities show the highly interpretable nature of our approach in finding the biomarkers of the diseases. }
+}
+
+
 
 @inproceedings{DBLP:conf/icpr/BoubrahimiMAHA18,
   author       = {Soukaina Filali Boubrahimi and
