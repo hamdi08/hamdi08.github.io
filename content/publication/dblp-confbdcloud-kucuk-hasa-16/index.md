@@ -77,5 +77,3 @@ links:
 - name: URL
   url: https://doi.org/10.1109/BDCloud-SocialCom-SustainCom.2016.23
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
