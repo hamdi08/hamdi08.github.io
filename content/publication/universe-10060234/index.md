@@ -74,5 +74,3 @@ links:
 - name: URL
   url: https://www.mdpi.com/2218-1997/10/6/234
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
