@@ -5,3 +5,24 @@
 .pub-item { margin: 0 0 0.75rem 0; }
 .pub-cite a { text-decoration: none; }
 
+/* Container */
+.pub-ul { list-style: none; padding-left: 0; margin: 0; }
+.pub-item { margin: 0 0 1.25rem 0; padding: 0 0 1rem 0; border-bottom: 1px solid rgba(0,0,0,0.08); }
+
+/* Citation line */
+.pub-cite { font-size: 1rem; line-height: 1.55; }
+.pub-cite .pub-title { text-decoration: none; }
+
+/* Links row (URL · CITE · DOI) */
+.pub-links { margin-top: .35rem; display: flex; gap: 1rem; }
+.pub-link { font-size: .92rem; display: inline-flex; align-items: center; gap: .35rem; text-decoration: none; }
+.pub-link .ico { width: 16px; height: 16px; fill: currentColor; }
+
+/* Accent color similar to your screenshot (teal/green) */
+.pub-links .pub-link { color: #0f9d7a; }
+.pub-links .pub-link:hover { text-decoration: underline; }
+
+/* Tighten overall section width on large screens */
+#publications { max-width: 900px; margin-left: auto; margin-right: auto; }
+
+
