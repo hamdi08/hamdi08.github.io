@@ -15,6 +15,11 @@ show_date: false
   <img src="logo.png" alt="Lab logo">
 </div>
 
+## Prediction of Solar Eruptive Events
+
+{{< youtube LTcjvzMj1a8 >}}
+
+
 ## Current Students
 
 <div class="lab-list">
