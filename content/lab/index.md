@@ -17,71 +17,80 @@ show_date: false
 
 ## Current Students
 
-<table class="lab-table">
-  <thead>
-    <tr>
-      <th>Photo</th>
-      <th>Name</th>
-      <th>Degree</th>
-      <th>Project</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Duplicate this <tr> per student -->
-    <tr>
-      <td><img src="img/reza.jpg" alt="Student 1" class="lab-photo"></td>
-      <td><a href="https://www.linkedin.com/in/samresume/" target="_blank" rel="noopener">MohammadReza EskandariNasab</a></td>
-      <td>PhD, CS</td>
-      <td>Time series data augmentation and developing ML cyberinfrastructure/td>
-    </tr>
-    <tr>
-      <td><img src="img/onur.jpg" alt="Student 2" class="lab-photo"></td>
-      <td><a href="https://www.linkedin.com/in/onur-vural-696706220/" target="_blank" rel="noopener">Onur Vural</a></td>
-      <td>PhD, CS</td>
-      <td>Contrastive learning and embedding of functional networks/td>
-    </tr>
-    <tr>
-      <td><img src="img/santosh.jpg" alt="Student 3" class="lab-photo"></td>
-      <td><a href="https://www.linkedin.com/in/s-c7/" target="_blank" rel="noopener">Santosh Chapagain</a></td>
-      <td>PhD, CS</td>
-      <td>Large Language Models and text representation learning/td>
-    </tr>
-    <tr>
-      <td><img src="img/annon.jpg" alt="Student 4" class="lab-photo"></td>
-      <td><a href="https://www.linkedin.com/in/nwnelson/" target="_blank" rel="noopener">Nathan Nelson</a></td>
-      <td>PhD, CS</td>
-      <td>Causal inference on multivariate time series data of solar eruptive events/td>
-    </tr>
-  </tbody>
-</table>
+<div class="lab-list">
+
+  <div class="lab-person">
+    <img src="img/reza.jpg" alt="Photo of MohammadReza EskandariNasab" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/samresume/" target="_blank" rel="noopener">MohammadReza EskandariNasab</a></li>
+        <li><strong>Degree:</strong> PhD, CS</li>
+        <li><strong>Project:</strong> Time series data augmentation and developing ML cyberinfrastructure</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/onur.jpg" alt="Photo of Onur Vural" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/onur-vural-696706220/" target="_blank" rel="noopener">Onur Vural</a></li>
+        <li><strong>Degree:</strong> PhD, CS</li>
+        <li><strong>Project:</strong> Contrastive learning and embedding of functional networks</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/santosh.jpg" alt="Photo of Santosh Chapagain" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/s-c7/" target="_blank" rel="noopener">Santosh Chapagain</a></li>
+        <li><strong>Degree:</strong> PhD, CS</li>
+        <li><strong>Project:</strong> Large Language Models and text representation learning</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/annon.jpg" alt="Photo of Nathan Nelson" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/nwnelson/" target="_blank" rel="noopener">Nathan Nelson</a></li>
+        <li><strong>Degree:</strong> PhD, CS</li>
+        <li><strong>Project:</strong> Causal inference on multivariate time series data of solar eruptive events</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
 
 ## Past Students
 
-<table class="lab-table">
-  <thead>
-    <tr>
-      <th>Photo</th>
-      <th>Name</th>
-      <th>Degree</th>
-      <th>Thesis</th>
-      <th>Current Position</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Duplicate this <tr> per alum -->
-    <tr>
-      <td><img src="img/kartik.jpg" alt="Alum 1" class="lab-photo"></td>
-      <td><a href="https://www.linkedin.com/in/1420kartik/" target="_blank" rel="noopener">Kartik Saini</a></td>
-      <td>MS, CS, USU (2023)</td>
-      <td><a href="https://digitalcommons.usu.edu/etd2023/88/" target="_blank" rel="noopener">Solar Flare Prediction From Extremely Imbalanced Multivariate Time Series Data Using Minimally Random Convolutional Kernel Transform</a></td>
-      <td>SDE 2, Amazon</td>
-    </tr>
-    <tr>
-      <td><img src="img/annon.jpg" alt="Alum 2" class="lab-photo"></td>
-      <td><a href="https://www.linkedin.com" target="_blank" rel="noopener">Khaznah Alshammari</a></td>
-      <td>PhD, CS, NMSU (2024)</td>
-      <td>Deep Learning Approaches for Multivariate Time Series: Advances in Feature Selection, Classification, and Forecasting</td>
-      <td>Assistant Professor (tenure-track), Computer Science, Northern Border University, Saudi Arabia</td>
-    </tr>
-  </tbody>
-</table>
+<div class="lab-list">
+
+  <div class="lab-person">
+    <img src="img/kartik.jpg" alt="Photo of Kartik Saini" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/1420kartik/" target="_blank" rel="noopener">Kartik Saini</a></li>
+        <li><strong>Degree:</strong> MS, CS, USU (2023)</li>
+        <li><strong>Thesis:</strong> <a href="https://digitalcommons.usu.edu/etd2023/88/" target="_blank" rel="noopener">Solar Flare Prediction From Extremely Imbalanced Multivariate Time Series Data Using Minimally Random Convolutional Kernel Transform</a></li>
+        <li><strong>Current Position:</strong> SDE 2, Amazon</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/annon.jpg" alt="Photo of Khaznah Alshammari" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com" target="_blank" rel="noopener">Khaznah Alshammari</a></li>
+        <li><strong>Degree:</strong> PhD, CS, NMSU (2024)</li>
+        <li><strong>Thesis:</strong> Deep Learning Approaches for Multivariate Time Series: Advances in Feature Selection, Classification, and Forecasting</li>
+        <li><strong>Current Position:</strong> Assistant Professor (tenure-track), Computer Science, Northern Border University, Saudi Arabia</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
