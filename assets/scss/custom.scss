@@ -1,2 +1,7 @@
 /* Hide publication summaries on the list page */
 .pub-list .article-style, .list-article .article-style { display: none; }
+
+.pub-ul { list-style: none; padding-left: 0; }
+.pub-item { margin: 0 0 0.75rem 0; }
+.pub-cite a { text-decoration: none; }
+
