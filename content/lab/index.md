@@ -1,6 +1,6 @@
 ---
-title: "Lab"
-summary: "HiDAM (High-Dimensional Data Mining and Analysis) Lab"
+title: "HiDAM (High-Dimensional Data Mining and Analysis) Lab"
+summary: "Lab"
 # Add Lab to the top nav
 menu:
   main:
@@ -76,7 +76,7 @@ show_date: false
         <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/1420kartik/" target="_blank" rel="noopener">Kartik Saini</a></li>
         <li><strong>Degree:</strong> MS, CS, USU (2023)</li>
         <li><strong>Thesis:</strong> <a href="https://digitalcommons.usu.edu/etd2023/88/" target="_blank" rel="noopener">Solar Flare Prediction From Extremely Imbalanced Multivariate Time Series Data Using Minimally Random Convolutional Kernel Transform</a></li>
-        <li><strong>Current Position:</strong> SDE 2, Amazon</li>
+        <li><strong>Current Position:</strong> SDE 2, Amazon.</li>
       </ul>
     </div>
   </div>
@@ -85,10 +85,34 @@ show_date: false
     <img src="img/annon.jpg" alt="Photo of Khaznah Alshammari" class="lab-pic">
     <div class="lab-person-content">
       <ul>
-        <li><strong>Name:</strong> <a href="https://www.linkedin.com" target="_blank" rel="noopener">Khaznah Alshammari</a></li>
+        <li><strong>Name:</strong> Dr. Khaznah Alshammari</li>
         <li><strong>Degree:</strong> PhD, CS, NMSU (2024)</li>
         <li><strong>Thesis:</strong> Deep Learning Approaches for Multivariate Time Series: Advances in Feature Selection, Classification, and Forecasting</li>
-        <li><strong>Current Position:</strong> Assistant Professor (tenure-track), Computer Science, Northern Border University, Saudi Arabia</li>
+        <li><strong>Current Position:</strong> Assistant Professor (tenure-track), Computer Science, Northern Border University, Saudi Arabia.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/annon.jpg" alt="Photo of Cory Cascalheira" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> Dr. Cory Cascalheira</li>
+        <li><strong>Degree:</strong> PhD, Psychology, NMSU (2024)</li>
+        <li><strong>Thesis:</strong> Computational Methods Investigating Psychosocial Stressors Among Sexual And Gender Minority People: A Machine Learning And Natural Language Processing Approach</li>
+        <li><strong>Current Position:</strong> Postdoctoral scholar, VA Puget Sound Health Care System, Seattle, WA, USA.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/annon.jpg" alt="Photo of Junyong Lee" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> Junyong Lee</li>
+        <li><strong>Degree:</strong> MS, CS, NMSU (2021)</li>
+        <li><strong>Thesis:</strong> Implementation Of Web-based Interface For Graph Embedding Methods And Machine Learning Pipeline</li>
+        <li><strong>Current Position:</strong> Full stack developer, University of New Mexico.</li>
       </ul>
     </div>
   </div>
