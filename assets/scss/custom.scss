@@ -25,4 +25,13 @@
 /* Tighten overall section width on large screens */
 #publications { max-width: 900px; margin-left: auto; margin-right: auto; }
 
+/* Force small icons on the publications list */
+#publications .pub-links svg.ico {
+  width: 14px !important;
+  height: 14px !important;
+  flex: 0 0 14px;
+  vertical-align: -1px;
+}
+
+
 
