@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <section id="publications" class="pub-list">
+    {{ $pages := where .Site.RegularPages "Section" "publication" }}
+    {{ range $pages.ByDate.Reverse }}
+      {{ partial "views/li_citation" . }}
+    {{ end }}
+  </section>
+{{ end }}
