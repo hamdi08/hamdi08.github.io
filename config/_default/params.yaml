@@ -59,4 +59,9 @@ features:
   privacy_pack:
     enable: false
 
+collections:
+  publication:
+    view: citation
+    columns: 1
+
 
