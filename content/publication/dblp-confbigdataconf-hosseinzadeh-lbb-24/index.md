@@ -75,5 +75,3 @@ links:
 - name: URL
   url: https://doi.org/10.1109/BigData62323.2024.10825642
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
