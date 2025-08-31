@@ -73,4 +73,3 @@ links:
 - name: URL
   url: https://dx.doi.org/10.3847/1538-4365/ad21e4
 ---
-
