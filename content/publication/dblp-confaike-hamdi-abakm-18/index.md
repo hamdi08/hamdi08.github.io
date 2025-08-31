@@ -76,5 +76,3 @@ links:
 - name: URL
   url: https://doi.org/10.1109/AIKE.2018.00011
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
