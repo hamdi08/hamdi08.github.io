@@ -55,7 +55,7 @@ sections:
     design:
       columns: "1"
     
-# 2.5) RESEARCH OVERVIEW (YouTube)
+# 3) RESEARCH OVERVIEW (YouTube)
   - block: markdown
     id: research-overview
     content:
@@ -69,7 +69,7 @@ sections:
       css_class: "video-block"
 
 
-  # 3) FEATURED PUBLICATIONS
+  # 4) FEATURED PUBLICATIONS
   - block: collection
     id: papers
     content:
@@ -81,7 +81,7 @@ sections:
       view: citation
       columns: 2
 
-  # 4) PAPERS (all publications together)
+  # 5) PAPERS (all publications together)
   - block: collection
     id: all-papers
     content:
