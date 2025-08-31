@@ -2,3 +2,9 @@
 .news-wide .container {
   max-width: 1200px;     /* default ~800px */
 }
+
+/* Hide the meta/date line on Teaching cards */
+.teaching-section .hb-meta,
+.teaching-section time {
+  display: none !important;
+}
