@@ -57,7 +57,7 @@ show_date: false
     <div class="lab-person-content">
       <ul>
         <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/nwnelson/" target="_blank" rel="noopener">Nathan Nelson</a></li>
-        <li><strong>Degree:</strong> PhD, CS</li>
+        <li><strong>Degree:</strong> MS, CS</li>
         <li><strong>Project:</strong> Causal inference on multivariate time series data of solar eruptive events</li>
       </ul>
     </div>
