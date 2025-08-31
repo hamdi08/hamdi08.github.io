@@ -1,5 +1,5 @@
 ---
-title: Solar, Heliospheric, and INterplanetary Environment (SHINE)
+title: SHINE: Understanding the Relationships of Photospheric Vector Magnetic Field Parameters in Solar Flare Occurrences using Graph-based Machine Learning Models
 date: 2023-02-08
 links:
   - type: site
