@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Thanks to the National Science Foundation (NSF), particularly the AGS (Atmospheric and Geospace Sciences) and OAC (Office of Advanced Cyberinfrastructure) directorates, for funding my research projects — including CAIG, SHINE, and CRII. This support has been instrumental in advancing our work at the intersection of computer science, machine learning, and space weather research.
       filters:
         folders:
           - project
