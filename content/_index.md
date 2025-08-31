@@ -54,19 +54,16 @@ sections:
         - **August 2020** — I started my Assistant Professor position at CS NMSU.
     design:
       columns: "1"
-    
-# 3) RESEARCH OVERVIEW (YouTube)
-- block: markdown
-  id: research-overview
-  content:
-    title: "Research Overview"
-    text: |-
-      {{< youtube LTcjvzMj1a8 >}}
-  design:
-    columns: "1"
 
-
-
+  # 3) RESEARCH OVERVIEW (YouTube)
+  - block: markdown
+    id: research-overview
+    content:
+      title: "Research Overview"
+      text: |-
+        {{< youtube LTcjvzMj1a8 >}}
+    design:
+      columns: "1"
 
   # 4) FEATURED PUBLICATIONS
   - block: collection
