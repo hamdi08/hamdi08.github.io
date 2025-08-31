@@ -1,5 +1,5 @@
 ---
-title: CRII - OAC - Cyberinfrastructure for Machine Learning on Multivariate Time Series Data and Functional Networks
+title: CRII OAC Cyberinfrastructure for Machine Learning on Multivariate Time Series Data and Functional Networks
 date: 2022-11-07
 links:
   - type: site
