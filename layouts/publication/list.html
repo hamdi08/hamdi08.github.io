@@ -1,8 +1,29 @@
 {{ define "main" }}
 <section id="publications" class="pub-list">
-  {{ $pages := where .Site.RegularPages "Section" "publication" }}
-  {{ range $pages.ByDate.Reverse }}
-    {{ .Render "li_citation" }}   {{/* use the theme’s content-view, not a partial */}}
+  {{ $pages := .Pages }}
+  {{ if not (gt (len $pages) 0) }}
+    <p>No publications found.</p>
+  {{ else }}
+    <ul class="pub-ul">
+      {{ range $pages.ByDate.Reverse }}
+        {{- $p := .Params -}}
+        {{- $year := cond (ne (.Date.Format "2006") "0001") (.Date.Format "2006") $p.year -}}
+        {{- $authors := "" -}}
+        {{- if $p.authors -}}
+          {{- /* authors usually a string array in Wowchemy/Hugo Blox */ -}}
+          {{- $authors = delimit $p.authors ", " -}}
+        {{- end -}}
+        <li class="pub-item">
+          <span class="pub-cite">
+            {{ with $authors }}{{ . }}. {{ end }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+            {{ with $p.publication }} <em>{{ . }}</em>.{{ end }}
+            {{ with $year }} ({{ . }}).{{ end }}
+            {{ with $p.doi }} doi: <a href="https://doi.org/{{ . }}">https://doi.org/{{ . }}</a>.{{ end }}
+          </span>
+        </li>
+      {{ end }}
+    </ul>
   {{ end }}
 </section>
 {{ end }}
