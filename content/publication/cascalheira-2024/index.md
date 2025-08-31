@@ -80,5 +80,3 @@ links:
 - name: URL
   url: https://doi.org/10.1007/s13178-024-01058-4
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
