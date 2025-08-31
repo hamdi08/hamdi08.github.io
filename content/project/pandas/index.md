@@ -1,5 +1,5 @@
 ---
-title: Collaborations in Artificial Intelligence and Geosciences (CAIG)
+title: CAIG: Synthetic Data Generation for Solar Energetic Particle Events by Multimodal Augmentation
 date: 2025-07-08
 links:
   - type: Site
