@@ -77,5 +77,3 @@ links:
 - name: URL
   url: https://ojs.aaai.org/index.php/ICWSM/article/view/19390
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
