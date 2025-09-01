@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Thanks to the National Science Foundation (NSF), particularly the AGS (Atmospheric and Geospace Sciences) and OAC (Office of Advanced Cyberinfrastructure) directorates, for funding my research projects.
+      text: Thanks to the National Science Foundation (NSF), particularly the Division of Atmospheric and Geospace Sciences (AGS) and the Office of Advanced Cyberinfrastructure (OAC), for funding my research projects.
       filters:
         folders:
           - project
