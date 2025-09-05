@@ -37,18 +37,6 @@ show_date: false
   </div>
 
   <div class="lab-person">
-    <img src="img/onur.jpg" alt="Photo of Onur Vural" class="lab-pic">
-    <div class="lab-person-content">
-      <ul>
-        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/onur-vural-696706220/" target="_blank" rel="noopener">Onur Vural</a></li>
-        <li><strong>Degree:</strong> PhD, CS</li>
-        <li><strong>Project:</strong> Contrastive learning and embedding of functional networks</li>
-        <li><strong>Achievements:</strong> Conference papers in Big Data and ICMLA; journal article in Remote Sensing.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="lab-person">
     <img src="img/santosh.jpg" alt="Photo of Santosh Chapagain" class="lab-pic">
     <div class="lab-person-content">
       <ul>
@@ -56,6 +44,18 @@ show_date: false
         <li><strong>Degree:</strong> PhD, CS</li>
         <li><strong>Project:</strong> Large Language Models and text representation learning</li>
         <li><strong>Achievements:</strong> Conference papers in CIKM, Big Data, DSAA, and ICWSM; journal article in Social Network Analysis and Mining.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="lab-person">
+    <img src="img/onur.jpg" alt="Photo of Onur Vural" class="lab-pic">
+    <div class="lab-person-content">
+      <ul>
+        <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/onur-vural-696706220/" target="_blank" rel="noopener">Onur Vural</a></li>
+        <li><strong>Degree:</strong> PhD, CS</li>
+        <li><strong>Project:</strong> Contrastive learning and embedding of functional networks</li>
+        <li><strong>Achievements:</strong> Conference papers in Big Data and ICMLA; journal article in Remote Sensing.</li>
       </ul>
     </div>
   </div>
