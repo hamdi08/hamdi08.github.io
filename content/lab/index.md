@@ -43,7 +43,7 @@ show_date: false
         <li><strong>Name:</strong> <a href="https://www.linkedin.com/in/onur-vural-696706220/" target="_blank" rel="noopener">Onur Vural</a></li>
         <li><strong>Degree:</strong> PhD, CS</li>
         <li><strong>Project:</strong> Contrastive learning and embedding of functional networks</li>
-        <li><strong>Achievements:</strong> Conference papers in Big Data and ICMLA; journal article in Remote Sensing; internship (Data Science Intern) in NASA Ames Research Center.</li>
+        <li><strong>Achievements:</strong> Conference papers in Big Data and ICMLA; journal article in Remote Sensing.</li>
       </ul>
     </div>
   </div>
