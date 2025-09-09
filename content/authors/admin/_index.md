@@ -36,8 +36,7 @@ profiles:
 
 # Research interests
 interests:
-  - Applied Machine Learning
-  - Time Series and Graph Learning
+  - Time Series, Graph, and Multimodal Learning
   - Cyberinfrastructure for Science
   - AI for Earth and Space Sciences
 
