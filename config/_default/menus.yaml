@@ -19,6 +19,9 @@ main:
   - name: Teaching
     url: teaching/
     weight: 50
+  - name: Services
+    url: services/
+    weight: 60
   - name: Lab
     url: lab/
-    weight: 60
+    weight: 70
