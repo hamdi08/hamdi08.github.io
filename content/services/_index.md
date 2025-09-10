@@ -6,24 +6,20 @@ menu:
     weight: 60
 ---
 
-### Services
-
 #### Professional Services
 
 **Panelist**
-- NSF OAC (Office of Advanced Cyberinfrastructure) panel, 2025  
-- NSF IIS (Information and Intelligent Systems) panel, 2023  
-- NSF IIS (Information and Intelligent Systems) panel, 2023  
-- NSF AGS (Atmospheric and Geospace Sciences) panel, 2022  
-- NSF OAC (Office of Advanced Cyberinfrastructure) panel, 2022  
+- NSF OAC panel, 2025, 2022  
+- NSF IIS panel, 2023, 2023  
+- NSF AGS panel, 2022   
 - Fred Hutch/NMSU Partnership for the Advancement of Cancer Research, 2021
 
 **Program Committee Member (Conferences)**
-- KDD, 2024, 2023, 2022  
+- KDD, 2024, 2023, 2022
+- AISTATS, 2022, 2021 *(recognition of top reviewer)*
+- IJCAI, 2023, 2022, 2021 
+- CIKM, 2022
 - SIAM SDM, 2023  
-- IJCAI, 2023, 2022, 2021  
-- AISTATS, 2022, 2021 *(recognition of top reviewer)*  
-- CIKM, 2022  
 - ECML/PKDD, 2022
 
 **Journal Reviewing & Other Roles**
@@ -34,13 +30,12 @@ menu:
 - IEEE TAI (IF 2022: 3.84), 2021  
 - IEEE TMI (IF 2021: 6.69), 2020  
 - Judge, NSF SHINE poster contest, 2022  
-- Mentor, NASMP (Native American Summer Mentorship Program), Summer 2024  
+- Mentor, NASMP (Native American Summer Mentorship Program), 2024  
 - Organizing committee, CAHSI Data Analytics Challenge, 2021  
-- Guest lecture (online), “The Trends of Deep Learning,” *Advanced Data Mining*, Spring 2021, CS @ USU
 
 #### University Services
-- Faculty search committee member, Fall 2023–Spring 2024  
-- Scholarship committee member, Summer 2024; Spring 2023  
-- BPC committee coordinator, Summer 2023  
-- Undergraduate curriculum committee member, Spring 2025–present  
-- Graduate committee member, CS @ NMSU, Spring 2022
+- Faculty search committee member, 2023  
+- Scholarship committee member, 2024, 2023  
+- BPC committee coordinator, 2023  
+- Undergraduate curriculum committee member, 2025  
+- Graduate committee member, CS @ NMSU, 2022
