@@ -37,6 +37,7 @@ profiles:
 # Research interests
 interests:
   - Multimodal AI
+  - Generative Modeling
   - Time Series and Graph Learning
   - Cyberinfrastructure for Science
   - AI for Earth and Space Sciences
