@@ -1,9 +1,9 @@
 ---
 # Display name (used on cards/headline)
-title: "Shah Muhammad Hamdi, PhD"
+title: "Shah Muhammad Hamdi, Ph.D."
 
 # Role/position
-role: "Assistant Professor of Computer Science"
+role: "Associate Professor of Computer Science"
 
 # Affiliation
 organizations:
@@ -53,4 +53,4 @@ education:
 ---
 ## Biography
 
-Dr. Shah Muhammad Hamdi is an Assistant Professor of Computer Science at Utah State University. His research develops machine learning techniques tailored to multivariate time series and graph data, with applications to the prediction and analysis of extreme solar events such as solar flares and solar energetic particles. He leads the design of ML-based cyberinfrastructure to integrate heterogeneous, large-scale scientific data and support reproducible forecasting workflows for the space weather community. Dr. Hamdi has secured over $1.3M in extramural funding, published more than 70 refereed papers, and was recognized as the Outstanding Computer Science Faculty Researcher of the Year by CS USU in 2024.
+Dr. Shah Muhammad Hamdi is an Associate Professor of Computer Science at Utah State University. His research develops machine learning techniques tailored to multivariate time series and graph data, with applications to the prediction and analysis of extreme solar events such as solar flares and solar energetic particles. He leads the design of ML-based cyberinfrastructure to integrate heterogeneous, large-scale scientific data and support reproducible forecasting workflows for the space weather community. Dr. Hamdi has secured over $1.3M in extramural funding as Principal Investigator, published more than 70 refereed papers, and was recognized as the Outstanding Computer Science Faculty Researcher of the Year by CS USU in 2024.
